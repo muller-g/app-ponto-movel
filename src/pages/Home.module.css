@@ -1,0 +1,12 @@
+.home_container{
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.home_body{
+    margin-top: 15px;
+    background-color: white;
+    border-radius: 20px;
+    padding: 0px 10px;
+}

@@ -1,0 +1,19 @@
+.enter_time{
+    padding: 10px 0px;
+    background-color: #30588E;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 20px 0px;
+}
+
+.enter_time span:first-child{
+    color: white;
+    font-size: 20px;
+}
+
+.enter_time span:nth-child(2){
+    color: white;
+    font-size: 28px;
+}
